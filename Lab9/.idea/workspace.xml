@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="71fcbcf9-cd79-4e6f-aab1-659eedbcd162" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1acdOEFOr6cA0hjIIdA39eutGBa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="oracle" />
+    <property name="JPA.DatabaseSchemaImportDialog" value="41e82422-e11c-46f1-b8bb-27f5ffbf2dac" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ImportMappingsDialog.RecentPackages">
+      <recent name="Models" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@1af7c14f" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="71fcbcf9-cd79-4e6f-aab1-659eedbcd162" name="Default Changelist" comment="" />
+      <created>1587038781939</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587038781939</updated>
+      <workItem from="1587038791424" duration="2141000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="91" key="#Assign_Data_Sources" timestamp="1587039722316">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="91" key="#Assign_Data_Sources/0.0.1536.864@0.0.1536.864" timestamp="1587039722316" />
+    <state x="361" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587038906468">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1587038906468" />
+    <state x="498" y="208" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1587039086667">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="498" y="208" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1536.864@0.0.1536.864" timestamp="1587039086667" />
+    <state x="439" y="0" key="#com.intellij.jpa.generation.ui.DatabaseSchemaImportDialog" timestamp="1587039140459">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="439" y="0" key="#com.intellij.jpa.generation.ui.DatabaseSchemaImportDialog/0.0.1536.864@0.0.1536.864" timestamp="1587039140459" />
+    <state width="1024" height="223" key="GridCell.Tab.0.bottom" timestamp="1587038932374">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1024" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1587038932374" />
+    <state width="1024" height="223" key="GridCell.Tab.0.center" timestamp="1587038932374">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1024" height="223" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1587038932374" />
+    <state width="1024" height="223" key="GridCell.Tab.0.left" timestamp="1587038932373">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1024" height="223" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1587038932373" />
+    <state width="1024" height="223" key="GridCell.Tab.0.right" timestamp="1587038932374">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1024" height="223" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1587038932374" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Models/Albums.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Models/Albums.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
