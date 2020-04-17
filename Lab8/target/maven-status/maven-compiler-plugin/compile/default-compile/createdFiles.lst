@@ -1,0 +1,6 @@
+com\DBEXample\DAO\Controller.class
+com\DBEXample\Entities\Album.class
+com\DBEXample\DAO\ChartRow.class
+com\DBEXample\DAO\AlbumController.class
+com\DBEXample\Entities\Chart.class
+com\DBEXample\Database\Database.class
